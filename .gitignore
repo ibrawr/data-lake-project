@@ -1,0 +1,27 @@
+# Local config file (contains the path to your dataset)
+config.json
+
+# Prevent uploading raw dataset
+Agreements/
+Bank_Installments/
+Clients/
+Company_Docs/
+Contracts/
+Employees/
+Letters/
+Logs/
+Quotations/
+Rate_Lists/
+Renewal_Certificates/
+Tax_Invoices/
+Vehicle_Checklist/
+Vehicle_Registration/
+Vendors/
+
+# Prevent OS files
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
