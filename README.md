@@ -48,10 +48,6 @@ My specific contributions included:
 * **Data lake architecture design** - structured the raw, processed, and curated zones so that original files, intermediate outputs, and analytics-ready datasets were clearly separated
 * **Python ETL pipeline development** - contributed to scripts that ingest, clean, transform, and export logistics data into Parquet format
 * **Job sheet and vendor analytics** - worked on pipelines that scan vendor folders, combine job sheet CSV files, clean dates and monetary fields, and generate monthly cost trends
-* **Rate list processing** - supported the standardisation of vehicle rate list data, including numeric rate conversion, source tracking, and average rate calculations
-* **Voucher and financial extraction** - contributed to the payment voucher workflow that extracts PDF text, parses payment amounts, and flags missing or unusual values
-* **Statement of account processing** - supported vendor-level reconciliation by linking job totals, payment amounts, and balance due calculations
-* **Vehicle maintenance analytics** - helped build logic for vehicle registration extraction, checklist processing, inspection failure metrics, and reliability scoring
 * **BigQuery and Tableau integration** - supported the process of moving curated Parquet outputs into BigQuery
 * **Documentation and reporting** - contributed to explaining the system architecture, pipeline flow, limitations, and business value in the final academic report
 
